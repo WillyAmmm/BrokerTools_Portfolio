@@ -18,13 +18,13 @@ This repo showcases those projects with short summaries, screenshots, and demos,
 
 
 
-!\[Screenshot](projects/dat-auto-refresh/../../assets/dat-auto-refresh-ui.png)
+!\[Screenshot](assets/dat-auto-refresh-ui.png)
 
-!\[Demo GIF](projects/dat-auto-refresh/../../assets/dat-auto-refresh-demo.gif)
+!\[Demo GIF](assets/dat-auto-refresh-demo.gif)
 
 
 
-\[▶️ Watch high-def demo (MP4)](projects/dat-auto-refresh/../../assets/dat-auto-refresh-demo.mp4)
+\[▶️ Watch high-def demo (MP4)](assets/dat-auto-refresh-demo.mp4)
 
 
 

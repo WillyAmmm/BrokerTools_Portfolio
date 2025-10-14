@@ -2,13 +2,13 @@
 
 
 
-!\[DAT Auto Refresh Screenshot](../../assets/dat-auto-refresh-ui.png)
+!\[DAT Auto Refresh Screenshot](assets/dat-auto-refresh-ui.png)
 
-!\[Demo GIF](../../assets/dat-auto-refresh-demo.gif)
+!\[Demo GIF](assets/dat-auto-refresh-demo.gif)
 
 
 
-\[▶️ Watch high-def demo (MP4)](../../assets/dat-auto-refresh-demo.mp4)
+\[▶️ Watch high-def demo (MP4)](assets/dat-auto-refresh-demo.mp4)
 
 
 
