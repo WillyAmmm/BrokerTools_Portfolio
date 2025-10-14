@@ -6,7 +6,7 @@ Everything here started as a real-world problem on the floor — slow quoting, s
 
 This repo showcases those projects with short summaries, screenshots, and demos, plus deeper breakdowns for anyone who wants to see what’s happening behind the scenes.
 
-## 🚛 DAT Auto Refresh (BrokerTools)
+## 🚛 DAT Auto Refresh
 
 ![Screenshot](assets/dat-auto-refresh-ui.png)
 
