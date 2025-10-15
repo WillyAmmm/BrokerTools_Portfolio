@@ -6,16 +6,23 @@ Everything here started as a real-world problem on the floor — slow quoting, s
 
 This repo showcases those projects with short summaries, screenshots, and demos, plus deeper breakdowns for anyone who wants to see what’s happening behind the scenes.
 
+---
+
 ## 🚛 DAT Auto Refresh
 
 **Problem:** Brokers manually refreshed DAT Loadboard posts every 15 minutes, wasting time if loads weren't refreshed or tanking visibility.  
 **Solution:** Built a Chrome/Edge extension that detects aging posts and auto-refreshes them using DAT’s own API.  
 **Impact:** Kept brokers’ loads visible and competitive by automatically refreshing posts before they expired — no more missed trucks due to stale listings.
 
-*Media preview:*
-![Screenshot](assets/dat-auto-refresh-ui.png)
-![Demo GIF](assets/dat-auto-refresh-demo-gif.gif)
+<div align="center">
+
+![DAT Auto Refresh Popup](assets/dat-auto-refresh-ui.png)
+
+![DAT Auto Refresh Demo](assets/dat-auto-refresh-demo-gif.gif)
+
 [▶️ Watch high-def demo (MP4)](assets/dat-auto-refresh-demo.mp4)
+
+</div>
 
 Features include:
 - Smart refresh timing  
@@ -35,9 +42,13 @@ Features include:
 **Solution:** A Chrome/Edge extension that scrapes the active spot portal page, normalizes each quote (origin/dest, equip, miles, stops, rate, status, dates), and syncs it to a central Quote Log via an API endpoint.  
 **Impact:** Centralized, clean quote history with quick edits and live win-rate snapshots, plus a dedicated **Recents** page for searching past quotes and updating status/rate/notes in bulk.
 
-*Media preview:*
-![Popup](assets/quote-logger-popup-ui.png)
-![Recents](assets/quote-logger-recents-ui.png)
+<div align="center">
+
+![Quote Logger Popup](assets/quote-logger-popup-ui.png)
+
+![Quote Logger Recents](assets/quote-logger-recents-ui.png)
+
+</div>
 
 Features include:
 - One-click quote capture from the current customer portal tab  
