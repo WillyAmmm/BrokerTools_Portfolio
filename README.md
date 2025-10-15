@@ -31,6 +31,7 @@ Features include:
 ## 🧾 Quote Logger
 
 ![Popup](assets/quote-logger-popup-ui.png)  
+
 ![Recents](assets/quote-logger-recents-ui.png)
 
 **Problem:** Quoting across customer spot portals is slow, messy, and hard to track historically. Manual spreadsheets drift, and win-rate visibility is nearly impossible in real time.  
