@@ -20,6 +20,10 @@ Manually keeping a spreadsheet updated is error-prone, duplicative, and slow—e
 - **Workflows on the Recents page.** Open *Recents* to view your 10 most recent quotes, search historical quotes, and inline-edit *Status*, *Rate*, and *Notes*. One click saves patches back to the log.  
 - **Visibility.** The footer shows your **Total** and **Last 30 Days** win-rate snapshots so screenshots tell the right story without exposing sensitive data.
 
+![Popup](../../assets/quote-logger-popup-ui.png)
+
+![Recents](../../assets/quote-logger-recents-ui.png)
+
 ---
 
 ### 🔍 How It Works (Under the Hood)
