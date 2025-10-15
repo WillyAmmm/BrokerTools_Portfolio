@@ -34,7 +34,7 @@ Clicking one automatically gathers all available lane details (origin/dest, equi
 Inside the calculator:
 
 - **Pull Base & Miles** directly from DAT RateView or WizeRate  
-- **Automatically selects correct customer template** from the dropdown (each defines margin %, fuel $/mi, and charge logic)  
+- **Automatically selects correct customer template** from the dropdown (each defines margin %, fuel $/mi, and accessorial charge logic)  
 - Toggle accessorials like **SD/DD, Teams, NYC, OD, Tarping, Extra Stops**  
 - Automatically calculate **OD scaling, permit fees, and per-mile surcharges**  
 - Instantly view **linehaul bid, accessorial total, and a detailed breakdown**  
