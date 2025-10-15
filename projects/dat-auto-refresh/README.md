@@ -1,11 +1,5 @@
 ﻿# DAT Auto Refresh – BrokerTools Extension
 
-![DAT Auto Refresh Screenshot](../../assets/dat-auto-refresh-ui.png)
-
-![Demo GIF](../../assets/dat-auto-refresh-demo-gif.gif)
-
-[▶️ Watch high-def demo (MP4)](../../assets/dat-auto-refresh-demo.mp4)
-
 ---
 
 ### 🚀 Overview
@@ -33,6 +27,18 @@ It also features:
 - **Visual status panel** – in the popup, users can toggle Auto Refresh, view next refresh time, and track total refresh count.  
 - **Dark mode support** – clean, modern popup UI with a sun/moon toggle that persists your theme.  
 - **Silent operation** – can refresh even when the DAT tab is minimized or backgrounded.
+
+---
+
+### 🖼️ Screenshots & Demo
+
+Below are visuals of the **DAT Auto Refresh** interface — showing the popup UI, dark mode design, and live auto-refresh behavior in action.
+
+![DAT Auto Refresh Screenshot](../../assets/dat-auto-refresh-ui.png)
+
+![Demo GIF](../../assets/dat-auto-refresh-demo-gif.gif)
+
+[▶️ Watch high-def demo (MP4)](../../assets/dat-auto-refresh-demo.mp4)
 
 ---
 
