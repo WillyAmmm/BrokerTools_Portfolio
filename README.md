@@ -64,6 +64,34 @@ Features include:
 
 ---
 
+## 💰 Spot Calc
+
+**Problem:** Some customers require linehaul-only bids with accessorial charges and fuel added later. Brokers manually converted DAT “Truck Pay” (market all-in rate) into linehaul-only bids for each customer, using inconsistent spreadsheets and formulas.  
+**Solution:** A Chrome/Edge extension that auto-pulls Base & Miles from DAT RateView or WizeRate and applies customer-specific accessorial templates — instantly converting the market rate into a precise linehaul-only bid.  
+**Impact:** Eliminated manual math and miscalculations, standardizing quote logic across the floor.
+
+<div align="center">
+
+![Spot Calc UI](assets/spot-calc-ui.png)
+
+![Spot Calc Buttons](assets/spot-calc-buttons.png)
+
+</div>
+
+Features include:
+- One-click **Pull** from DAT RateView / WizeRate  
+- Configurable **customer pricing templates** (fuel $/mi, accessorial charges, OD pricing)  
+- Automatic **OD scaling, permit fees, stops, and tarping logic**  
+- Smart **copy buttons** for Linehaul $ or full breakdown  
+- Clean, modern overlay UI — draggable, resizable, dark/light adaptive  
+- Buttons can be **injected into any customer portal** to launch the calculator pre-filled with lane data  
+
+**Tech:** JavaScript (MV3), Chrome Extensions API, HTML/CSS UI, async messaging  
+
+🧩 [Read full project details →](projects/spot-calc/README.md)
+
+---
+
 ### ⚠️ Disclaimer
 
 All tools and code shown here were independently developed and are the sole property of the author.  

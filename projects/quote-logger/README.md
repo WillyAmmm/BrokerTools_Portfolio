@@ -1,3 +1,5 @@
+# Quote Logger
+
 ### 🚀 Overview
 
 **Quote Logger** is a Chrome/Edge extension that captures quote rows directly from a customer spot portal you have open, normalizes the data (origin/destination, equipment, miles, stops, dates, rate, status), and syncs it to a centralized Quote Log via an API endpoint.  
