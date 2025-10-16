@@ -21,6 +21,10 @@ This repo showcases those projects with short summaries, screenshots, and demos,
 ![Master Sheet Overview](assets/load-posts-main.png)
 *Main Master sheet – centralized command hub for posting and automation*
 
+</div>
+
+<div align="center">
+
 ![Smart Bulk Reply Form](assets/load-posts-reply.png)
 *Smart Bulk Reply engine for replying to carriers directly from Outlook*
 
