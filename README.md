@@ -86,13 +86,17 @@ Features include:
 
 **Impact:** Eliminated manual math and miscalculations, standardizing quote logic across the floor.
 
-<div align="center">
+<p align="center">
+  <img src="assets/spot-calc-ui.png" alt="Spot Calc UI">
+  <br/>
+  <em>Calculator UI — pulls RateView/WizeRate, applies customer templates, and outputs linehaul</em>
+</p>
 
-![Spot Calc UI](assets/spot-calc-ui.png)
-
-![Spot Calc Buttons](assets/spot-calc-buttons.png)
-
-</div>
+<p align="center">
+  <img src="assets/spot-calc-buttons.png" alt="Spot Calc Buttons">
+  <br/>
+  <em>Injected buttons on customer portals — launch the calc pre-filled with lane data</em>
+</p>
 
 Features include:
 - One-click **Pull** from DAT RateView / WizeRate  
@@ -116,13 +120,17 @@ Features include:
 
 **Impact:** Centralized, clean quote history with quick edits and live win-rate snapshots, plus a dedicated **Recents** page for searching past quotes and updating status/rate/notes in bulk.
 
-<div align="center">
+<p align="center">
+  <img src="assets/quote-logger-popup-ui.png" alt="Quote Logger Popup UI">
+  <br/>
+  <em>Main extension UI — capture a quote from the current portal or open past quotes</em>
+</p>
 
-![Quote Logger Popup](assets/quote-logger-popup-ui.png)
-
-![Quote Logger Recents](assets/quote-logger-recents-ui.png)
-
-</div>
+<p align="center">
+  <img src="assets/quote-logger-recents-ui.png" alt="Quote Logger Recents UI">
+  <br/>
+  <em>Recents page — search, edit status/rate/notes, and view win-rate snapshots</em>
+</p>
 
 Features include:
 - One-click quote capture from the current customer portal tab  
