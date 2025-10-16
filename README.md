@@ -16,19 +16,17 @@ This repo showcases those projects with short summaries, screenshots, and demos,
 
 **Impact:** Transformed the posting and covering process from hours to minutes and made carrier replies near-instant, allowing one broker to handle the volume of an entire team.
 
-<div align="center">
+<p align="center">
+  <img src="assets/load-posts-main.png" alt="Master Sheet Overview">
+  <br/>
+  <em>Main Master sheet — centralized command hub for posting and automation</em>
+</p>
 
-![Master Sheet Overview](assets/load-posts-main.png)
-*Main Master sheet – centralized command hub for posting and automation*
-
-</div>
-
-<div align="center">
-
-![Smart Bulk Reply Form](assets/load-posts-reply.png)
-*Smart Bulk Reply engine for replying to carriers directly from Outlook*
-
-</div>
+<p align="center">
+  <img src="assets/load-posts-reply.png" alt="Smart Bulk Reply Form">
+  <br/>
+  <em>Smart Bulk Reply engine — reply to carriers directly from Outlook</em>
+</p>
 
 **Features include:**
 - **Bulk DAT Upload:** Post all of your freight to DAT in seconds  
