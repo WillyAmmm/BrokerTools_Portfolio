@@ -50,14 +50,20 @@ This repo showcases those projects with short summaries, screenshots, and demos,
 
 **Impact:** Kept brokers’ loads visible and competitive by automatically refreshing posts before they expired — no more missed trucks due to stale listings.
 
+<p align="center">
+  <img src="assets/dat-auto-refresh-ui.png" alt="DAT Auto Refresh Popup">
+  <br/>
+  <em>Main extension UI — quick controls, status, and dark mode toggle</em>
+</p>
+
+<p align="center">
+  <img src="assets/dat-auto-refresh-demo-gif.gif" alt="DAT Auto Refresh Demo">
+  <br/>
+  <em>Demo of the refresh in action. Will continue to work in the background whether DAT is visible or not.</em>
+</p>
+
 <div align="center">
-
-![DAT Auto Refresh Popup](assets/dat-auto-refresh-ui.png)
-
-![DAT Auto Refresh Demo](assets/dat-auto-refresh-demo-gif.gif)
-
-[▶️ Watch high-def demo (MP4)](assets/dat-auto-refresh-demo.mp4)
-
+  <a href="assets/dat-auto-refresh-demo.mp4">▶️ Watch high-def demo (MP4)</a>
 </div>
 
 Features include:
