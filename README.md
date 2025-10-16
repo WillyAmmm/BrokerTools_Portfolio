@@ -92,6 +92,26 @@ Features include:
 
 ---
 
+## 📦 BrokerTools – Load Posts Suite
+
+**Problem:** Load posting and carrier replies eat up hours every day. Brokers manually retype load details into DAT, juggle Excel sheets, and copy/paste the same info across dozens of emails — a slow, error-prone mess.  
+**Solution:** A complete Excel + Outlook VBA automation suite that centralizes load data, automates DAT load postings, and powers instant Smart Replies straight from Outlook — no retyping, no searching, no wasted motion.  
+**Impact:** Transformed the posting and covering process from hours to minutes and made carrier replies near-instant, allowing one broker to handle the volume of an entire team.
+
+**Features include:**
+- **Bulk DAT Upload:** Post all of your freight to DAT in seconds  
+- **Smart Bulk Reply Engine:** Match and reply to hundreds of carrier emails automatically  
+- **SmartBot:** Auto-responds to carriers even when away from the desk  
+- **Load Wizard & TMS Import:** Create new loads or batch import all loads from your TMS system in seconds  
+- **Master Sheet Automation:** One-click actions for Copy, Hide, Delete, and cleanup  
+- **Clipboard Tools:** Instant load summaries for messages or chats  
+
+**Tech:** VBA (Excel + Outlook), COM automation bridge, MSForms, RegEx, Windows Registry persistence  
+
+🧩 [Read full project details →](projects/load-posts-suite/README.md)
+
+---
+
 ### ⚠️ Disclaimer
 
 All tools and code shown here were independently developed and are the sole property of the author.  
