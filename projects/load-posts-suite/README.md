@@ -25,15 +25,35 @@ BrokerTools transforms the manual, high-volume chaos of load posting and carrier
 
 Together, these automations eliminate retyping, reduce response times from minutes to seconds, and allow a single broker to handle the volume that once required an entire team.
 
+<p align="center">
+  <img src="/assets/load-posts-main.png" alt="Master Sheet Overview">
+  <br/>
+  <em>Main Master sheet — centralized command hub for posting and automation</em>
+</p>
+
 ## 🧰 Key Features
 
 ### 🧭 Manual Load Wizard
 
 Step-by-step forms guide brokers through creating loads — equipment, weight, stops, and notes — then automatically generate a formatted load sheet and master-sheet entry with hyperlinks and status tracking.
 
+<p align="center">
+  <img src="/assets/load-posts-add-single.png" alt="Single Add">
+  <br/>
+  <em>Manual Load Wizard — step-by-step interface for quick, accurate load creation</em>
+</p>
+
+
 ### 📥 Bulk Add from TMS
 
 Paste raw TMS lane dumps directly into Excel. The importer parses, normalizes, and batches entire lane lists into clean records, ready to review and post — turning 30-minute data entry sessions into a 3-minute process.
+
+<p align="center">
+  <img src="/assets/load-posts-import.png" alt="Bulk Add Loads">
+  <br/>
+  <em>Bulk Add — pull load data from your TMS to pre-populate fields and streamline batch entry</em>
+</p>
+
 
 ### 📊 Master Sheet Automation & Hygiene
 
@@ -50,6 +70,13 @@ It parses stop data, standardizes equipment codes, and creates a CSV-ready DAT s
 The Clipboard Utility copies clean, formatted load summaries (label + value pairs) into any app or email.
 The Rate Sheet Opener remembers shared network paths for quick access to team rate books.
 
+<p align="center">
+  <img src="/assets/load-posts-details.png" alt="Load Details View">
+  <br/>
+  <em>Load Details — auto-generated load summary ensuring clean, consistent replies to carriers asking for load details</em>
+</p>
+
+
 ### ✉️ Smart Bulk Reply Engine
 
 The Smart Bulk Reply Engine turns a flooded inbox into a few simple clicks.
@@ -58,6 +85,13 @@ Brokers can select dozens of carrier emails at once, and the system automaticall
 Once confirmed, the engine replies to every selected message — each with a perfectly formatted, load-specific email pulled directly from Excel. What used to take up a significant portion of a broker’s day now happens in just a few minutes.
 
 DNU (Do-Not-Use) carriers are automatically identified and excluded from replies, ensuring no blocked carriers receive load details. The result is an organized, high-volume response system that keeps communication fast, accurate, and effortless — even when handling a hundred quotes at once.
+
+<p align="center">
+  <img src="/assets/load-posts-reply.png" alt="Smart Bulk Reply">
+  <br/>
+  <em>Smart Bulk Reply — convert a flood of carrier requests into fast, accurate replies with one click</em>
+</p>
+
 
 ### 🤖 SmartBot Automation
 
