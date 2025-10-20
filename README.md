@@ -146,6 +146,15 @@ Features include:
 
 ---
 
+### 🔮 Future Plans
+
+- **Unified BrokerTools Platform:** Merge Load Posts, Spot Calc, DAT Refresh, and Quote Logger into a single system with shared data and authentication.
+- **DAT API Integration:** Enable direct posting, editing, and duplication of loads through DAT’s API for real-time brokerage automation and posting loads directly from the Load Posts Master Sheet.
+- **BrokerTools Add-In:** Package the Excel and Outlook VBA tools into a COM Add-In for easy deployment and auto-updates.
+- **Analytics Dashboard:** Expand Power BI integrations to visualize team productivity, response rates, and load performance across all tools.
+
+---
+
 ### ⚠️ Disclaimer
 
 All tools and code shown here were independently developed and are the sole property of the author.  
