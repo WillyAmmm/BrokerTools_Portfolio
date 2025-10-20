@@ -1,6 +1,6 @@
 ﻿# BrokerTools Portfolio
 
-I build automation and analytics tools that make brokerages more efficient and less chaotic.
+I build automation and analytics tools that make brokerages and operations teams more efficient and less chaotic.
 
 Everything here started as a real-world problem on the floor — slow quoting, stale load posts, replying to hundreds of carrier emails — and turned into working solutions I coded myself.
 
